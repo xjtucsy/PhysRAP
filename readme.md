@@ -4,7 +4,7 @@
 
 #### Introduction
 
-Main code of **To Remember, To Adapt, To Preempt: A Continual Test-Time Adaptation Framework for Remote Physiological Measurement in Dynamic Domain Shifts**.
+Main code of [**To Remember, To Adapt, To Preempt: A Continual Test-Time Adaptation Framework for Remote Physiological Measurement in Dynamic Domain Shifts**](https://arxiv.org/html/2510.01282v1).
 
 ![main_framework_rebuttal_version](readme/main_framework_rebuttal_version.png)
 
@@ -43,4 +43,5 @@ python ./trainer.py --save_path /path/to/save_dir/ --dataset {dataset_name} --da
 ```
 
 ```
+
 
