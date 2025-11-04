@@ -41,15 +41,16 @@ python ./trainer.py --save_path /path/to/save_dir/ --dataset {dataset_name} --da
 #### Cite our method
 
 ```
-@inproceedings{chu2025remember,
-    author = {Chu, Shuyang and Shi, Jingang and Cheng, Xu and Chen, Haoyu and Liu, Xin and Xu, Jian and Zhao, Guoying},
-    title = {To Remember, To Adapt, To Preempt: A Stable Continual Test-Time Adaptation Framework for Remote Physiological Measurement in Dynamic Domain Shifts},
-    booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia (MM '25)},
-    year = {2025},
-    isbn = {979-8-4007-2035-2},
-    doi = {10.1145/3746027.3754751},
+@inproceedings{10.1145/3746027.3754751,
+author = {Chu, Shuyang and Shi, Jingang and Cheng, Xu and Chen, Haoyu and Liu, Xin and Xu, Jian and Zhao, Guoying},
+title = {To Remember, To Adapt, To Preempt: A Stable Continual Test-Time Adaptation Framework for Remote Physiological Measurement in Dynamic Domain Shifts},
+year = {2025},
+doi = {10.1145/3746027.3754751},
+booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
+pages = {7307–7316}
 }
 ```
+
 
 
 
