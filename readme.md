@@ -30,7 +30,7 @@ python ./datasets/dataset_preprocess.py --dataset_dir {dataset_dir} --dataset {d
 
 ##### 3 test-time adaptation (PhysRAP)
 
-- Perform contionual test-time adaptation with (![Pretrained Model](https://drive.google.com/file/d/18LgvH-crx_dGpP6eP5eatNmi3VD-9Z91/view?usp=sharing)):
+- Perform contionual test-time adaptation with ([Pretrained Model](https://drive.google.com/file/d/18LgvH-crx_dGpP6eP5eatNmi3VD-9Z91/view?usp=sharing)):
 
 ```shell
 python ./trainer.py --save_path /path/to/save_dir/ --dataset {dataset_name} --dataset_dir /path/to/dataset
